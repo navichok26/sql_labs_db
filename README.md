@@ -5,4 +5,7 @@
 
 `docker-compose up -d`
 
-После запуска postgresql заработает на localhost:6666, где в базе данных postgres будут все таблички из лабы
+После запуска postgresql заработает на localhost:6666, где в базе данных postgres будут все таблички из лабы.
+
+Пользователь: postgres
+Пароль: changeme
